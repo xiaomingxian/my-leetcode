@@ -1,0 +1,100 @@
+https://leetcode-cn.com/problems/max-chunks-to-make-sorted-ii 768.最多能完成排序的块 II   52.1% 困难
+https://leetcode-cn.com/problems/two-sum 1. 两数之和   52.4% 简单
+https://leetcode-cn.com/problems/trapping-rain-water-ii 407.接雨水 II   57.9% 困难
+https://leetcode-cn.com/problems/longest-palindromic-substring  5.最长回文子串   36.4% 中等
+https://leetcode-cn.com/problems/add-strings 415. 字符串相加   54.6   简单
+https://leetcode-cn.com/problems/add-two-numbers 2. 两数相加   41.5% 中等
+https://leetcode-cn.com/problems/reverse-integer 7. 整数反转   35.2% 中等
+https://leetcode-cn.com/problems/longest-common-subsequence 1143.最长公共子序列   64.1% 中等
+https://leetcode-cn.com/problems/merge-two-sorted-lists 21.合并两个有序链表   66.7   简单
+https://leetcode-cn.com/problems/second-highest-salary 176.第二高的薪水   35.5% 中等
+https://leetcode-cn.com/problems/search-in-rotated-sorted-array 33.搜索旋转排序数组   43.3% 中等
+https://leetcode-cn.com/problems/valid-parentheses 20.有效的括号   44.5   简单
+https://leetcode-cn.com/problems/maximum-product-subarray 152.乘积最大子数组   42.5% 中等
+https://leetcode-cn.com/problems/fan-zhuan-lian-biao-lcof 剑指Offer 24. 反转链表   74.3   简单
+https://leetcode-cn.com/problems/zui-chang-bu-han-zhong-fu-zi-fu-de-zi-zi-fu-chuan-lcof 剑指Offer 48. 最长不含重复字符的子字符串   46.4% 中等
+https://leetcode-cn.com/problems/merge-sorted-array 88.合并两个有序数组   52.2   简单
+https://leetcode-cn.com/problems/fibonacci-number 509.斐波那契数   66.7   简单
+https://leetcode-cn.com/problems/longest-substring-without-repeating-characters 3.无重复字符的最长子串   38.6% 中等
+https://leetcode-cn.com/problems/climbing-stairs 70. 爬楼梯   53.6   简单
+https://leetcode-cn.com/problems/prime-palindrome 866. 回文素数   22.9% 中等
+https://leetcode-cn.com/problems/kth-largest-element-in-an-array 215.数组中的第K个最大元素   64.7% 中等
+https://leetcode-cn.com/problems/shortest-palindrome 214.最短回文串   37.8% 困难
+https://leetcode-cn.com/problems/count-and-say  38. 外观数列   59.9% 中等
+https://leetcode-cn.com/problems/median-of-two-sorted-arrays  4.寻找两个正序数组的中位数   41.2% 困难
+https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-with-cooldown  309.最佳买卖股票时机含冷冻期   62.5% 中等
+https://leetcode-cn.com/problems/single-number-iii  260.只出现一次的数字 III   73.7% 中等
+https://leetcode-cn.com/problems/longest-increasing-subsequence  300.最长递增子序列   53.0% 中等
+https://leetcode-cn.com/problems/permutations  46. 全排列   78.5% 中等
+https://leetcode-cn.com/problems/lru-cache  146. LRU 缓存   52.6% 中等
+https://leetcode-cn.com/problems/top-k-frequent-elements  347. 前K 个高频元素   62.7% 中等
+https://leetcode-cn.com/problems/longest-valid-parentheses  32.最长有效括号   36.2% 困难
+https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-search-tree  235.二叉搜索树的最近公共祖先   67.1   简单
+https://leetcode-cn.com/problems/linked-list-cycle 141.环形链表   51.4   简单
+https://leetcode-cn.com/problems/binary-tree-maximum-path-sum 124.二叉树中的最大路径和   44.9% 困难
+https://leetcode-cn.com/problems/sqrtx 69. x 的平方根    38.9   简单
+https://leetcode-cn.com/problems/min-stack 155. 最小栈   57.9   简单
+https://leetcode-cn.com/problems/valid-permutations-for-di-sequence 903.DI 序列的有效排列   54.3% 困难
+https://leetcode-cn.com/problems/coin-change 322. 零钱兑换   45.3% 中等
+https://leetcode-cn.com/problems/find-peak-element 162.寻找峰值   49.5% 中等
+https://leetcode-cn.com/problems/candy-crush 723. 粉碎糖果 73.1% 中等
+https://leetcode-cn.com/problems/zhong-jian-er-cha-shu-lcof 剑指Offer 07. 重建二叉树   70.2% 中等
+https://leetcode-cn.com/problems/3sum 15. 三数之和   34.9% 中等
+https://leetcode-cn.com/problems/linked-list-cycle-ii 142. 环形链表II   55.9% 中等
+https://leetcode-cn.com/problems/can-you-eat-your-favorite-candy-on-your-favorite-day 1744.你能在你最喜欢的那天吃到你最喜欢的糖果吗？   36.2% 中等
+https://leetcode-cn.com/problems/longest-repeating-character-replacement 424.替换后的最长重复字符   53.5% 中等
+https://leetcode-cn.com/problems/intersection-lcci 面试题 16.03.交点   44.0% 困难
+https://leetcode-cn.com/problems/majority-element 169. 多数元素   66.6   简单
+https://leetcode-cn.com/problems/intersection-of-two-linked-lists 160.相交链表   62.5   简单
+https://leetcode-cn.com/problems/max-submatrix-lcci 面试题 17.24.最大子矩阵   53.0% 困难
+https://leetcode-cn.com/problems/permutation-sequence 60.排列序列   52.9% 困难
+https://leetcode-cn.com/problems/subarray-product-less-than-k 713.乘积小于K的子数组   43.7% 中等
+https://leetcode-cn.com/problems/transpose-matrix 867. 转置矩阵   66.8   简单
+https://leetcode-cn.com/problems/generate-parentheses 22.括号生成   77.4% 中等
+https://leetcode-cn.com/problems/reverse-linked-list 206.反转链表   72.8   简单
+https://leetcode-cn.com/problems/element-appearing-more-than-25-in-sorted-array 1287.有序数组中出现次数超过25%的元素   60.1   简单
+https://leetcode-cn.com/problems/shu-zu-zhong-de-ni-xu-dui-lcof 剑指Offer 51. 数组中的逆序对   48.9% 困难
+https://leetcode-cn.com/problems/maximum-sum-of-two-non-overlapping-subarrays 1031.两个非重叠子数组的最大和   58.3% 中等
+https://leetcode-cn.com/problems/next-greater-element-ii 503.下一个更大元素 II   64.8% 中等
+https://leetcode-cn.com/problems/rank-scores 178. 分数排名   60.4% 中等
+https://leetcode-cn.com/problems/palindrome-linked-list-lcci 面试题02.06. 回文链表   48.5   简单
+https://leetcode-cn.com/problems/score-of-parentheses 856.括号的分数   63.0% 中等
+https://leetcode-cn.com/problems/binary-tree-level-order-traversal 102.二叉树的层序遍历   64.6% 中等
+https://leetcode-cn.com/problems/department-highest-salary 184.部门工资最高的员工   48.9% 中等
+https://leetcode-cn.com/problems/palindrome-partitioning-ii 132.分割回文串 II   49.4% 困难
+https://leetcode-cn.com/problems/maximum-product-of-three-numbers 628.三个数的最大乘积   52.4   简单
+https://leetcode-cn.com/problems/employees-earning-more-than-their-managers 181.超过经理收入的员工   69.3   简单
+https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock 121.买卖股票的最佳时机   57.6   简单
+https://leetcode-cn.com/problems/number-of-longest-increasing-subsequence 673.最长递增子序列的个数   43.9% 中等
+https://leetcode-cn.com/problems/print-zero-even-odd 1116.打印零与奇偶数   52.6% 中等
+https://leetcode-cn.com/problems/consecutive-numbers 180.连续出现的数字   48.3% 中等
+https://leetcode-cn.com/problems/find-all-duplicates-in-an-array 442.数组中重复的数据   70.2% 中等
+https://leetcode-cn.com/problems/multiply-strings43. 字符串相乘   44.9% 中等
+https://leetcode-cn.com/problems/car-pooling 1094. 拼车   56.7% 中等
+https://leetcode-cn.com/problems/delete-node-in-a-bst 450.删除二叉搜索树中的节点   50.2% 中等
+https://leetcode-cn.com/problems/linked-list-random-node 382.链表随机节点   71.8% 中等
+https://leetcode-cn.com/problems/search-in-rotated-sorted-array-ii 81.搜索旋转排序数组 II   41.4% 中等
+https://leetcode-cn.com/problems/delete-duplicate-emails 196.删除重复的电子邮箱   66.4   简单
+https://leetcode-cn.com/problems/excel-sheet-column-title 168.Excel表列名称   43.5   简单
+https://leetcode-cn.com/problems/lemonade-change 860. 柠檬水找零   58.5   简单
+https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee 714.买卖股票的最佳时机含手续费   73.5% 中等
+https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-iv 188.买卖股票的最佳时机 IV   40.8% 困难
+https://leetcode-cn.com/problems/shu-zu-zhong-shu-zi-chu-xian-de-ci-shu-lcof 剑指Offer 56 - I. 数组中数字出现的次数   69.3% 中等
+https://leetcode-cn.com/problems/minimum-number-of-arrows-to-burst-balloons 452.用最少数量的箭引爆气球   50.7% 中等
+https://leetcode-cn.com/problems/shuffle-an-array 384. 打乱数组   61.0% 中等
+https://leetcode-cn.com/problems/first-missing-positive 41.缺失的第一个正数   42.3% 困难
+https://leetcode-cn.com/problems/kth-node-from-end-of-list-lcci 面试题02.02. 返回倒数第 k 个节点   78.0   简单
+https://leetcode-cn.com/problems/search-a-2d-matrix 74.搜索二维矩阵   47.0% 中等
+https://leetcode-cn.com/problems/is-subsequence 392. 判断子序列   52.0   简单
+https://leetcode-cn.com/problems/find-the-duplicate-number 287.寻找重复数   65.1% 中等
+https://leetcode-cn.com/problems/er-cha-sou-suo-shu-yu-shuang-xiang-lian-biao-lcof 剑指Offer 36. 二叉搜索树与双向链表   65.3% 中等
+https://leetcode-cn.com/problems/liang-ge-lian-biao-de-di-yi-ge-gong-gong-jie-dian-lcof 剑指Offer 52. 两个链表的第一个公共节点   65.4   简单
+https://leetcode-cn.com/problems/lian-xu-zi-shu-zu-de-zui-da-he-lcof 剑指Offer 42. 连续子数组的最大和   60.7   简单
+https://leetcode-cn.com/problems/zui-xiao-de-kge-shu-lcof 剑指Offer 40. 最小的k个数   57.3   简单
+https://leetcode-cn.com/problems/combine-two-tables 175.组合两个表   73.4   简单
+https://leetcode-cn.com/problems/pascals-triangle118. 杨辉三角   74.4   简单
+https://leetcode-cn.com/problems/perfect-squares 279. 完全平方数   64.4% 中等
+https://leetcode-cn.com/problems/delete-node-in-a-linked-list 237.删除链表中的节点   85.8   简单
+https://leetcode-cn.com/problems/binary-tree-right-side-view 199.二叉树的右视图   65.4% 中等
+https://leetcode-cn.com/problems/palindromic-substrings  647.回文子串   66.1% 中等
+https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list 19.删除链表的倒数第 N 个结点   43.8% 中等
